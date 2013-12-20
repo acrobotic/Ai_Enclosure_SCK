@@ -1,6 +1,6 @@
 Overview
 ---
-This repository includes the vector drawings thar are used for laser-cutting our clear acrylic enclosure for the [Snart Citizen Kit][1].  The enclosure helps protect
+This repository includes the vector drawings thar are used for laser-cutting our clear acrylic enclosure for the [Smart Citizen Kit][1].  The enclosure helps protect
 the electronics on the circuit boards and allows for mount the Smart Citizen Kit's hardware on walls and other surfaces without much trouble. 
 
 Product page
